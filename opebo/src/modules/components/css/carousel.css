@@ -1,0 +1,12 @@
+
+* {
+  margin: 0;
+}
+
+.ant-carousel .slick-slide {
+  margin-top: 0;
+  text-align: center;
+  height: 160px;
+  line-height: 160px;
+  overflow: hidden;
+}

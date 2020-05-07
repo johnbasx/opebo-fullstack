@@ -1,0 +1,9 @@
+{
+  "env": {
+    "MONGODB_URI": "mongodb+srv://mathachew7:Mathachew7@cluster0-vlsdm.mongodb.net/integration?retryWrites=true&w=majority",
+    "PORT": 8000,
+    "JWT_SECRET": "thisisopebosecretkey",
+    "SENDGRID_API_KEY": "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",
+    "NODE_ENV": "development"
+  }
+}

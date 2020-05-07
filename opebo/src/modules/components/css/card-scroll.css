@@ -1,0 +1,11 @@
+
+.card-scroll {
+  height: fit-content;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  white-space: nowrap;
+}
+
+.card-scroll::-webkit-scrollbar {
+  display: none;
+}
